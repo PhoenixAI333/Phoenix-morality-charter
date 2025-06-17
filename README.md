@@ -6,6 +6,20 @@ The **Phoenix Morality Charter** is the world’s first immutable, faith-guided 
 
 ---
 
+## Licensing & Use
+
+The Phoenix Morality Charter, Phoenix AI, and Easter Egg App are **free for personal, educational, and non-profit use**.
+
+**For any business, commercial, or government use:**
+A paid license or written permission is required.
+
+- Interested organizations or enterprises: Contact [enrique.easter.egg.app@gmail.com](mailto:enrique.easter.egg.app@gmail.com)
+- Early adopters will receive premium support and future benefits as the project grows.
+
+We are committed to open-sourcing this technology in the future, once sustainable funding is secured. Your support makes that possible.
+
+---
+
 ## Our Mission
 
 To establish a universal foundation for transparent, trustworthy, and morally-aligned artificial intelligence—anchored in timeless values and built for the next generation of digital innovation.
@@ -36,7 +50,7 @@ The Easter Egg App is a secure digital asset vault, built on the principles and 
 
 ---
 
-> *“Faith. Transparency. Trust. Phoenix AI sets the standard for AI with a soul.”*
+>*Faith. Transparency. Trust. Phoenix AI sets the standard for AI with a soul.*
 
 ---
 
@@ -51,8 +65,6 @@ We welcome collaboration! Please see the [Contributor’s Guide](CONTRIBUTING.md
 This project is open-source under the [MIT License](LICENSE).
 
 ---
-
-
 
 
 
